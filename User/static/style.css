@@ -1,0 +1,56 @@
+#head1{
+    text-align: center;
+    color: red;
+    font-size: 40px ;
+    font-weight: bold;
+    font-family: fantasy;
+    letter-spacing: 4px;
+}
+.b1{
+    background-image: linear-gradient(90deg, cyan, indigo);
+}
+#anc{
+    color: white;
+    font-family: bold;
+    text-decoration: none;
+    font-size: 35px;
+    /* text-align: center; */
+    font-family: Sofia;
+}
+.b2{
+    background-image: linear-gradient(90deg, red, blue);
+}
+.b3{
+    background-image: linear-gradient(90deg, hotpink, royalblue );
+}
+.b4{
+    background-image: linear-gradient(90deg, hotpink, royalblue );
+}
+tr,td{
+    padding: 20px;
+}
+#p1{
+color: whitesmoke;
+font-weight: bold;
+}
+input[type=text],input[type=email],input[type=password]{
+    border-radius: 15px 0px 15px;
+    border-color: transparent;
+    height: 35px;
+    width: 220px;
+    color: firebrick;
+    font-weight: bold;
+}
+input[type=submit]{
+    background-color: red;
+    color: white;
+    border-radius: 12px 0px 12px;
+    border-color: transparent;
+    height: 40px;
+    width: 10%;
+    letter-spacing: 3px;
+}
+input[type=submit]:hover{
+    background-color: green;
+}
+
